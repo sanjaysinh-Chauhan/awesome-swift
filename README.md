@@ -1248,6 +1248,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
+* [SSCTaglistView](https://github.com/sanjaysinh-Chauhan/SSCTaglistView) - Customizable iOS tag list view, in Swift. view.
 
 #### Alert
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
